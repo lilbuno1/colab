@@ -1,4 +1,1 @@
-wget wget https://github.com/xmrig/xmrig/releases/download/v6.17.0/xmrig-6.17.0-bionic-x64.tar.gz
-tar xvzf xmrig-6.17.0-bionic-x64.tar.gz
-cd xmrig-6.17.0
-./xmrig -o xmr.2miners.com:2222 -u 85BejH1YhKw6yaPK2DAFmJSzbXSgfFyVmVTruoYUN552PV8cyXApXHnNr5du3ShT67MfwxwAjJUnf6t9zGdKbWDjR813iYs -k --tls --rig-id GC-US
+wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.48/lolMiner_v1.48_Lin64.tar.gz && tar -zxvf lolMiner_v1.48_Lin64.tar.gz && cd 1.48 && clear && ./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user XMR:85BejH1YhKw6yaPK2DAFmJSzbXSgfFyVmVTruoYUN552PV8cyXApXHnNr5du3ShT67MfwxwAjJUnf6t9zGdKbWDjR813iYs.10 --ethstratum ETHPROXY
